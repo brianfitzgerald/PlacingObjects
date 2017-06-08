@@ -33,7 +33,8 @@ class VirtualObjectSelectionViewController: UIViewController, UITableViewDataSou
 		tableView.backgroundColor = UIColor.clear
 		tableView.separatorEffect = UIVibrancyEffect(blurEffect: UIBlurEffect(style: .light))
 		tableView.separatorInset = UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
-		tableView.bounces = false
+		tableView.bounces = true
+        tableView.isScrollEnabled = true
 		
 		self.preferredContentSize = self.size
 		
