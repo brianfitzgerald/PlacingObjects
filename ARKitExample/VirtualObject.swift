@@ -95,7 +95,8 @@ extension VirtualObject {
 		Vase(),
 		Lamp(),
 		Chair(),
-        Plumbus()
+        Plumbus(),
+        SFHouse()
 	]
 }
 

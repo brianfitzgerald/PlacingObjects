@@ -29,6 +29,7 @@
 		C490DAC41E9AB63400210960 /* VirtualObjectSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C490DAC31E9AB63400210960 /* VirtualObjectSelectionViewController.swift */; };
 		C4E87DD91EA6B40F002117D6 /* VirtualObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E87DD81EA6B40F002117D6 /* VirtualObject.swift */; };
 		C4FBC02B1EC6438B003F7864 /* ARCameraTrackingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FBC02A1EC6438B003F7864 /* ARCameraTrackingState.swift */; };
+		D4551E0E1EE9EB8200D43AD3 /* SFHouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4551E0D1EE9EB8200D43AD3 /* SFHouse.swift */; };
 		D4B4B5361EE79FBB00FEE8B0 /* Plumbus.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B4B5351EE79FBB00FEE8B0 /* Plumbus.swift */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		C4E87DD81EA6B40F002117D6 /* VirtualObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VirtualObject.swift; path = ../VirtualObject.swift; sourceTree = "<group>"; };
 		C4FBC02A1EC6438B003F7864 /* ARCameraTrackingState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARCameraTrackingState.swift; sourceTree = "<group>"; };
 		C7F76951F8992F473202F831 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		D4551E0D1EE9EB8200D43AD3 /* SFHouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFHouse.swift; sourceTree = "<group>"; };
 		D4B4B5351EE79FBB00FEE8B0 /* Plumbus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Plumbus.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -137,6 +139,7 @@
 		C40DF57B1EC2330700D9D59E /* Virtual Objects */ = {
 			isa = PBXGroup;
 			children = (
+				D4551E0D1EE9EB8200D43AD3 /* SFHouse.swift */,
 				C4E87DD81EA6B40F002117D6 /* VirtualObject.swift */,
 				D4B4B5351EE79FBB00FEE8B0 /* Plumbus.swift */,
 				C40FE5231EC239F100732B01 /* Candle.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39C0B9511E9C63CB003FCA0C /* HitTestVisualization.swift in Sources */,
+				D4551E0E1EE9EB8200D43AD3 /* SFHouse.swift in Sources */,
 				C40FE52B1EC239F100732B01 /* Cup.swift in Sources */,
 				C40FE52A1EC239F100732B01 /* Chair.swift in Sources */,
 				3929C48E1E89EC2C00E00B60 /* ViewController.swift in Sources */,
