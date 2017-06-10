@@ -10,7 +10,7 @@ import Foundation
 class Plumbus: VirtualObject {
     
     override init() {
-        super.init(modelName: "plumbus", fileExtension: "scn", thumbImageFilename: "chair", title: "Plumbus")
+        super.init(modelName: "plumbus", fileExtension: "scn", thumbImageFilename: "vase", title: "Plumbus")
     }
     
     required init?(coder aDecoder: NSCoder) {

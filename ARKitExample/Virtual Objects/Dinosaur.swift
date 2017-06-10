@@ -10,7 +10,7 @@ import Foundation
 class Dinosaur: VirtualObject {
     
     override init() {
-        super.init(modelName: "dinosaur", fileExtension: "dae", thumbImageFilename: "vase", title: "Dinosaur")
+        super.init(modelName: "dinosaur", fileExtension: "scn", thumbImageFilename: "vase", title: "Dinosaur")
     }
     
     required init?(coder aDecoder: NSCoder) {

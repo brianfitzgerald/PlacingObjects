@@ -96,7 +96,8 @@ extension VirtualObject {
 		Lamp(),
 		Chair(),
         Plumbus(),
-        SFHouse()
+        SFHouse(),
+        Dinosaur()
 	]
 }
 
